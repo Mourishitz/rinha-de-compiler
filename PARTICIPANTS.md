@@ -194,6 +194,7 @@
 | Rodrigo Meray | [penumbra](https://github.com/RDGMR/penumbra) | ✅ Completo | Lua | Tree-Walking Interprer | [GitHub](https://github.com/RDGMR) |
 | Felipe Cardoso | [node-interpreter](https://github.com/agnostk/node-interpreter) | ✅ Rodando todos os exemplos | JavaScript (Node) | Tree-Walking Interprer | [GitHub](https://github.com/agnostk), [LinkedIn](https://www.linkedin.com/in/fehacdev/), [Youtube](https://www.youtube.com/@agnostk) |
 | kurioh | [rinha](https://github.com/kkuriboh/rinha) | WIP | Rust | Compila pra HVM | [GitHub](https://github.com/kkuriboh) |
+| Mourishitz | [nim-compiler](https://github.com/Mourishitz/nim-compiler) | Em andamento... | [Nim](https://nim-lang.org) | Tree-Walking Interpreter | [GitHub](https://github.com/Mourishitz), [LinkedIn](https://www.linkedin.com/in/gabriel-morishita/), [Website](https://gabriel-morishita.web.app) |
 
 **Tipos de projeto:**
 | Nome                       | Descrição / Link para recursos explicando       |
